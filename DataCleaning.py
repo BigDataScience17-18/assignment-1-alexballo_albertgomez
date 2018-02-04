@@ -60,4 +60,3 @@ for directory in listdir("./dataset-assignment1"):
         result_file.write(values_channel + "\n")
         result_file.close()
         read_file.close()
-
